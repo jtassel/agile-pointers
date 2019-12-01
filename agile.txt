@@ -3,6 +3,9 @@ increment
 ceremonies
 agile
 scrum
+board
+kanban
+pipeline
 stand up
 squad
 product owner
