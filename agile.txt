@@ -1,0 +1,26 @@
+agile
+increment
+ceremonies
+agile
+scrum
+stand up
+squad
+product owner
+retrospective
+information radiator
+visible
+JIRA
+WIKI
+Sprint
+Planning
+Reviews
+pair programming
+XP
+coach
+qa
+testing
+continuous
+communities of interest
+chapter
+quaterly planning
+rolling wave
