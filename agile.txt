@@ -1,9 +1,7 @@
-agile
-increment
-ceremonies
-agile
-scrum
+scrum 
+small team based autonomy
 board
+make work visible
 kanban
 pipeline
 stand up
